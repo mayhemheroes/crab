@@ -1,0 +1,5 @@
+project: crab
+target: parser
+
+cmds:
+    - cmd: /parser
