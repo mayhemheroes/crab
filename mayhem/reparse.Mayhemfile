@@ -1,0 +1,5 @@
+project: crab
+target: reparse
+
+cmds:
+    - cmd: /reparse
